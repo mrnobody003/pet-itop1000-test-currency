@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pet-itop1000-test-currency/static/css/main.0c01e891.css",
+    "main.js": "/pet-itop1000-test-currency/static/js/main.d9e4835b.js",
+    "static/js/411.f183c538.chunk.js": "/pet-itop1000-test-currency/static/js/411.f183c538.chunk.js",
+    "static/js/116.a768de2d.chunk.js": "/pet-itop1000-test-currency/static/js/116.a768de2d.chunk.js",
+    "static/js/820.d30cc677.chunk.js": "/pet-itop1000-test-currency/static/js/820.d30cc677.chunk.js",
+    "index.html": "/pet-itop1000-test-currency/index.html",
+    "main.0c01e891.css.map": "/pet-itop1000-test-currency/static/css/main.0c01e891.css.map",
+    "main.d9e4835b.js.map": "/pet-itop1000-test-currency/static/js/main.d9e4835b.js.map",
+    "411.f183c538.chunk.js.map": "/pet-itop1000-test-currency/static/js/411.f183c538.chunk.js.map",
+    "116.a768de2d.chunk.js.map": "/pet-itop1000-test-currency/static/js/116.a768de2d.chunk.js.map",
+    "820.d30cc677.chunk.js.map": "/pet-itop1000-test-currency/static/js/820.d30cc677.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c01e891.css",
+    "static/js/main.d9e4835b.js"
+  ]
+}
